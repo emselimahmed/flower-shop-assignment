@@ -51,5 +51,7 @@
 .banner-image-area {}
 
 .banner-photo {
-    width: 450px;
+    width: 480px;
+    margin-top: 60px;
 }
+
