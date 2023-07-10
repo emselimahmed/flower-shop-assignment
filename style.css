@@ -19,11 +19,20 @@
 }
 
 .banner-text-area {
-    width: 550px;
+    width: 580px;
 }
 
-.banner-image-area {
+.banner-title {
+    color: #272727;
+    font-size: 60px;
 }
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+.banner-image-area {}
 
 .banner-photo {
     width: 450px;
