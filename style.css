@@ -14,14 +14,15 @@
     font-size: 17px;
     font-weight: bold;
 }
-.btn:hover{
+
+.btn:hover {
     background-color: #80B135;
 }
 
 
 /* -------------- Banner style section -------------- */
 
-.banner {
+.banner-container {
     background-color: #E554731A;
     height: 100vh;
     display: flex;
@@ -44,14 +45,14 @@
     font-size: 18px;
     padding: 10px;
 }
-.banner-btn{
-    margin: 10px;
 
+.banner-btn {
+    margin: 10px;
 }
-.banner-image-area {}
 
 .banner-photo {
     width: 480px;
     margin-top: 60px;
 }
 
+/* -------------- Featured Flowers style section -------------- */
