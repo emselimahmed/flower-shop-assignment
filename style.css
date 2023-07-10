@@ -78,20 +78,32 @@
 
 .f-f-photo-1 {
     width: 225px;
+    background-color: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    padding: 18px;
+
 }
 
 .f-f-photo-2 {
-    width: 310px;
+    width: 250px;
+    background-color: rgba(5, 151, 160, 0.15);
+    border-radius: 300px 300px 0px 0px;
+    padding: 50px 0px;
+
 }
 
 .f-f-photo-3 {
     width: 207px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 18px;
 }
 
 .f-f-image-text {
     flex-direction: column;
     display: flex;
     align-items: center;
+    /* justify-content: center; */
 }
 
 .f-f-image-title {
