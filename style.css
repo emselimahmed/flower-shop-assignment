@@ -69,6 +69,16 @@
     margin: auto;
 }
 
-.f-f-images-area{
+.f-f-images-area {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.f-f-photo {
+    width: 200px;
+}
+
+.f-f-image-title {
+    text-decoration: underline;
 }
