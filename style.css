@@ -73,10 +73,19 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: 1px solid red;
 }
 
-.f-f-photo {
-    width: 200px;
+.f-f-photo-1 {
+    width: 225px;
+}
+
+.f-f-photo-2 {
+    width: 320px;
+}
+
+.f-f-photo-3 {
+    width: 220px;
 }
 
 .f-f-image-title {
