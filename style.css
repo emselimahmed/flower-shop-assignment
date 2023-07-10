@@ -32,7 +32,7 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    
+
 }
 
 .banner-text-area {
@@ -57,7 +57,7 @@
 .banner-photo {
     width: 460px;
     margin: 85px 115px 0px 0px;
-    
+
 }
 
 /* -------------- Featured Flowers(F-F) style section -------------- */
@@ -66,12 +66,12 @@
     height: 100vh;
 }
 
-.f-f-title{
+.f-f-title {
     padding: 15px;
     font-size: 35px;
 }
 
-.f-f-description{
+.f-f-description {
     padding: 10px;
 }
 
@@ -85,7 +85,7 @@
     display: flex;
     width: 85%;
     margin: auto;
-    justify-content:center;    
+    justify-content: center;
 }
 
 .f-f-photo-1 {
@@ -94,7 +94,7 @@
     border-radius: 300px 300px 0px 0px;
     padding: 50px;
     margin: 15px;
-    
+
 }
 
 .f-f-photo-2 {
@@ -103,7 +103,7 @@
     border-radius: 300px 300px 0px 0px;
     padding: 80px 40px;
     margin: 15px;
-    
+
 }
 
 .f-f-photo-3 {
@@ -127,3 +127,13 @@
 
 /* -------------- Delivery Local Support style section -------------- */
 
+.d-l-s-container {
+    width: 77%;
+    margin: auto;
+    height: 230px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
