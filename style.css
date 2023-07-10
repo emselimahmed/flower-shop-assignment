@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    font-family: 'Lato', sans-serif;
 }
 
 /* -------------- Similar style section -------------- */
@@ -11,5 +12,19 @@
 .banner {
     background-color: #E554731A;
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 
+}
+
+.banner-text-area {
+    width: 550px;
+}
+
+.banner-image-area {
+}
+
+.banner-photo {
+    width: 450px;
 }
