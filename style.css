@@ -6,12 +6,16 @@
 /* -------------- Similar style section -------------- */
 
 .btn {
-    padding: 15px 40px;
+    padding: 15px 38px;
     background-color: #E55473;
-    border-radius: 8px;
+    border-radius: 6px;
     border: 0;
     color: white;
+    font-size: 17px;
     font-weight: bold;
+}
+.btn:hover{
+    background-color: #80B135;
 }
 
 
@@ -23,7 +27,6 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-
 }
 
 .banner-text-area {
@@ -33,13 +36,18 @@
 .banner-title {
     color: #272727;
     font-size: 60px;
+    padding: 10px;
 }
 
 .banner-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
+    padding: 10px;
 }
+.banner-btn{
+    margin: 10px;
 
+}
 .banner-image-area {}
 
 .banner-photo {
