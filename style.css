@@ -37,7 +37,7 @@
 
 .banner-text-area {
     width: 580px;
-    margin-left: 100px;
+    margin-left: 117px;
 }
 
 .banner-title {
@@ -55,14 +55,23 @@
 }
 
 .banner-photo {
-    width: 450px;
-    margin-top: 90px;
+    width: 460px;
+    margin: 85px 115px 0px 0px;
+    
 }
 
 /* -------------- Featured Flowers(F-F) style section -------------- */
 
 .f-f-container {
     height: 100vh;
+}
+
+.f-f-title{
+    padding: 20px;
+}
+
+.f-f-description{
+    padding: 10px;
 }
 
 .f-f-text-area {
@@ -76,6 +85,7 @@
     width: 85%;
     margin: auto;
     justify-content:center;
+    
 }
 
 .f-f-photo-1 {
@@ -83,7 +93,8 @@
     background-color: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
     padding: 50px;
-
+    margin: 15px;
+    
 }
 
 .f-f-photo-2 {
@@ -91,7 +102,8 @@
     background-color: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     padding: 80px 40px;
-
+    margin: 15px;
+    
 }
 
 .f-f-photo-3 {
@@ -99,6 +111,7 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 50px;
+    margin: 15px;
 }
 
 .f-f-image-text {
