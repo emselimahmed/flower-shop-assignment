@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
 }
 
@@ -8,8 +8,8 @@
 
 /* -------------- Banner style section -------------- */
 
-.banner{
+.banner {
     background-color: #E554731A;
     height: 100vh;
-    
+
 }
