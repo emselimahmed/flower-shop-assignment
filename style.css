@@ -19,6 +19,10 @@
     background-color: #80B135;
 }
 
+.description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
 
 /* -------------- Banner style section -------------- */
 
@@ -41,8 +45,6 @@
 }
 
 .banner-description {
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
     padding: 10px;
 }
 
@@ -55,4 +57,10 @@
     margin-top: 60px;
 }
 
-/* -------------- Featured Flowers style section -------------- */
+/* -------------- Featured Flowers(F-F) style section -------------- */
+
+.f-f-text-area{
+    text-align: center;
+    width: 550px;
+    margin: auto;
+}
