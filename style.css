@@ -81,11 +81,17 @@
 }
 
 .f-f-photo-2 {
-    width: 320px;
+    width: 310px;
 }
 
 .f-f-photo-3 {
-    width: 220px;
+    width: 207px;
+}
+
+.f-f-image-text {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
 }
 
 .f-f-image-title {
