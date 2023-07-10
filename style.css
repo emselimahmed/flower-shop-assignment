@@ -19,7 +19,7 @@
     background-color: #80B135;
 }
 
-.description{
+.description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
 }
@@ -59,8 +59,16 @@
 
 /* -------------- Featured Flowers(F-F) style section -------------- */
 
-.f-f-text-area{
+.f-f-container {
+    height: 100vh;
+}
+
+.f-f-text-area {
     text-align: center;
     width: 550px;
     margin: auto;
+}
+
+.f-f-images-area{
+    display: flex;
 }
