@@ -85,8 +85,7 @@
     display: flex;
     width: 85%;
     margin: auto;
-    justify-content:center;
-    
+    justify-content:center;    
 }
 
 .f-f-photo-1 {
@@ -111,7 +110,7 @@
     width: 207px;
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
-    padding: 50px;
+    padding: 55px 55px 45px 55px;
     margin: 15px;
 }
 
