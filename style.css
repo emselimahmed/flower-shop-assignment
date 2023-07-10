@@ -5,6 +5,14 @@
 
 /* -------------- Similar style section -------------- */
 
+.btn {
+    padding: 15px 40px;
+    background-color: #E55473;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    font-weight: bold;
+}
 
 
 /* -------------- Banner style section -------------- */
