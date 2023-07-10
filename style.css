@@ -32,10 +32,12 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    
 }
 
 .banner-text-area {
     width: 580px;
+    margin-left: 100px;
 }
 
 .banner-title {
@@ -53,8 +55,8 @@
 }
 
 .banner-photo {
-    width: 480px;
-    margin-top: 60px;
+    width: 450px;
+    margin-top: 90px;
 }
 
 /* -------------- Featured Flowers(F-F) style section -------------- */
@@ -71,9 +73,9 @@
 
 .f-f-images-area {
     display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border: 1px solid red;
+    width: 85%;
+    margin: auto;
+    justify-content:center;
 }
 
 .f-f-photo-1 {
