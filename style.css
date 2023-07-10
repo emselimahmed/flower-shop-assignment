@@ -130,10 +130,27 @@
 .d-l-s-container {
     width: 77%;
     margin: auto;
-    height: 230px;
+    /* height: 230px; */
+    height: 30vh;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     display: flex;
     justify-content: space-around;
     align-items: center;
+
+}
+
+.d-l-s-icons {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.d-l-s-icon {
+    width: 65px;
+    padding: 20px;
+}
+
+.d-l-s-description {
+    font-weight: bold;
 }
