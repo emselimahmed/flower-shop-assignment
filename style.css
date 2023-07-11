@@ -243,7 +243,7 @@
 /* -------------- Latest Deals Style Section -------------- */
 
 .l-d-container {
-    height: 50vh;
+    height: 45vh;
     background-image: url(assets/images/latest-deal-banner.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -252,7 +252,7 @@
     margin: auto;
     border-radius: 8px;
     box-shadow: rgb(114, 114, 114) 5px 5px 50px;
-
+    
 }
 
 .l-d-texts {
@@ -289,3 +289,6 @@ input[placeholder="Enter your email here...."] {
 .l-d-btn {
     margin-left: 20px;
 }
+
+/* -------------- Latest Deals Style Section -------------- */
+
