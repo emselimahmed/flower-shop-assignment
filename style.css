@@ -83,7 +83,6 @@
 
 .f-f-container {
     height: 100vh;
-    /* margin-top: 30px; */
 }
 
 .f-f-title {
@@ -317,7 +316,6 @@ input[placeholder="Enter your email here...."] {
 .c-r-all-content-container {
     display: flex;
     justify-content: space-around;
-
 
 }
 
