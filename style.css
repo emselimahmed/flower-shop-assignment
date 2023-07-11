@@ -6,7 +6,7 @@
 /* -------------- Similar Style Section -------------- */
 
 .btn {
-    padding: 15px 38px;
+    padding: 15px 35px;
     background-color: #E55473;
     border-radius: 6px;
     border: 0;
@@ -243,7 +243,7 @@
 /* -------------- Latest Deals Style Section -------------- */
 
 .l-d-container {
-    height: 40vh;
+    height: 50vh;
     background-image: url(assets/images/latest-deal-banner.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -251,12 +251,18 @@
     width: 77vw;
     margin: auto;
     border-radius: 8px;
+    box-shadow: rgb(114, 114, 114) 5px 5px 50px;
 
 }
 
 .l-d-texts {
     text-align: center;
+    padding: 50px;
+}
 
+.l-d-description {
+    padding: 20px;
+    font-size: 17px;
 }
 
 .subscribe-area {
@@ -264,4 +270,22 @@
     justify-content: center;
     align-items: center;
     justify-content: ;
+}
+
+.email {
+    width: 500px;
+    height: 47px;
+    border-radius: 8px;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+input[placeholder="Enter your email here...."] {
+    padding-left: 20px;
+}
+
+.l-d-btn {
+    margin-left: 20px;
 }
