@@ -131,6 +131,8 @@
 .f-f-image-title {
     text-decoration: underline;
     cursor: pointer;
+    font-weight: 700;
+
 }
 
 /* -------------- Delivery, Local & Support Style Section -------------- */
@@ -167,7 +169,7 @@
 
 /* -------------- Hot Deal(H-D) Style Section -------------- */
 
-.h-d-container{
+.h-d-container {
     background-color: rgba(229, 84, 115, 0.05);
     height: 70vh;
     display: flex;
@@ -175,55 +177,62 @@
     align-items: center;
 }
 
-.h-d-text-area{
+.h-d-text-area {
     width: 45%;
     margin: auto;
     text-align: center;
 }
-.h-d-title{
+
+.h-d-title {
     padding: 10px;
 }
-.h-d-description{
+
+.h-d-description {
     padding: 15px;
-    
+
 }
 
 
-.h-d-images{
+.h-d-images {
     width: 30%;
 }
 
-.h-d-photo{
+.h-d-photo {
     width: 230px;
 }
 
 /* -------------- Instagram(Insta) Style Section -------------- */
 
-.insta-container{
-    height: 70vh;
+.insta-container {
+    height: 60vh;
 
 }
-.insta-text-area{
+
+.insta-text-area {
     text-align: center;
     width: 45%;
     margin: auto;
     padding: 50px;
 }
-.insta-title{
+
+.insta-title {
     padding: 20px;
 
 }
 
-.insta-images{
+.insta-images {
     display: flex;
     justify-content: center;
-    
-}
-.insta-photo{
-    width: 250px;
-    margin: 8px;
-    border-radius: 14px;
-    box-shadow: rgb(114, 114, 114) 10px 10px 20px;
-    
 
 }
+
+.insta-photo {
+    width: 250px;
+    margin: 8px;
+    border-radius: 10px;
+    box-shadow: rgb(114, 114, 114) 10px 10px 20px;
+    
+}
+
+/* -------------- Latest Deal Style Section -------------- */
+
