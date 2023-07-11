@@ -231,8 +231,11 @@
     margin: 8px;
     border-radius: 10px;
     box-shadow: rgb(114, 114, 114) 10px 10px 20px;
-    
+
 }
 
 /* -------------- Latest Deals Style Section -------------- */
 
+.l-d-container {
+    height: 40vh;
+}
