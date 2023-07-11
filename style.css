@@ -135,7 +135,7 @@
 
 }
 
-/* -------------- Delivery, Local & Support Style Section -------------- */
+/* -------------- Delivery, Local & Support(D-L-S) Style Section -------------- */
 
 .d-l-s-container {
     width: 77%;
@@ -234,13 +234,13 @@
 
 .insta-photo {
     width: 250px;
-    margin: 8px;
+    margin: 7px;
     border-radius: 10px;
     box-shadow: rgb(114, 114, 114) 10px 10px 20px;
 
 }
 
-/* -------------- Latest Deals Style Section -------------- */
+/* -------------- Latest Deals Style(L-D) Section -------------- */
 
 .l-d-container {
     height: 45vh;
@@ -248,7 +248,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    width: 77vw;
+    width: 76vw;
     margin: auto;
     border-radius: 8px;
     box-shadow: rgb(114, 114, 114) 5px 5px 50px;
@@ -257,11 +257,11 @@
 
 .l-d-texts {
     text-align: center;
-    padding: 50px;
+    padding: 45px;
 }
 
 .l-d-description {
-    padding: 20px;
+    padding: 18px;
     font-size: 17px;
 }
 
@@ -269,17 +269,15 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    justify-content: ;
 }
 
 .email {
-    width: 500px;
-    height: 47px;
+    width: 400px;
+    height: 48px;
     border-radius: 8px;
     border: none;
     color: rgba(39, 39, 39, 0.60);
-    font-size: 16px;
-    font-weight: 400;
+    font-size: 14px;
 }
 
 input[placeholder="Enter your email here...."] {
@@ -295,7 +293,7 @@ input[placeholder="Enter your email here...."] {
 .footer-section {
     background-color: #111010;
     height: 40vh;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 .footer-container {
@@ -307,12 +305,15 @@ input[placeholder="Enter your email here...."] {
     padding: 40px;
 
 }
-#flower-color{
+
+#flower-color {
     color: #E55473;
 }
-.footer-title{
+
+.footer-title {
     padding: 20px;
 }
+
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
     width: 40%;
@@ -320,8 +321,9 @@ input[placeholder="Enter your email here...."] {
     padding: 10px;
     font-size: 15px;
 }
-.copyright{
+
+.copyright {
     padding: 15px;
     color: gray;
-    
+
 }
