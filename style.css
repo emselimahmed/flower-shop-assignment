@@ -238,4 +238,24 @@
 
 .l-d-container {
     height: 40vh;
+    background-image: url(assets/images/latest-deal-banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 77vw;
+    margin: auto;
+    border-radius: 8px;
+
+}
+
+.l-d-texts {
+    text-align: center;
+    
+}
+
+.subscribe-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: ;
 }
