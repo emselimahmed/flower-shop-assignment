@@ -295,21 +295,33 @@ input[placeholder="Enter your email here...."] {
 .footer-section {
     background-color: #111010;
     height: 40vh;
-    display: flex;
-    flex-direction: column;
+    margin-top: 50px;
 }
 
 .footer-container {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
-    width: 100vw;
-    align-content: center;
-    align-items: center;
-    justify-content: space-around;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 40px;
 
 }
-
+#flower-color{
+    color: #E55473;
+}
+.footer-title{
+    padding: 20px;
+}
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    font-size: 15px;
+}
+.copyright{
+    padding: 15px;
+    color: gray;
+    
 }
