@@ -252,7 +252,7 @@
     margin: auto;
     border-radius: 8px;
     box-shadow: rgb(114, 114, 114) 5px 5px 50px;
-    
+
 }
 
 .l-d-texts {
@@ -290,5 +290,26 @@ input[placeholder="Enter your email here...."] {
     margin-left: 20px;
 }
 
-/* -------------- Latest Deals Style Section -------------- */
+/* -------------- Footer Style Section -------------- */
 
+.footer-section {
+    background-color: #111010;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-container {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    width: 100vw;
+    align-content: center;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+}
