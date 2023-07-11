@@ -3,7 +3,7 @@
     font-family: 'Lato', sans-serif;
 }
 
-/* -------------- Similar style section -------------- */
+/* -------------- Similar Style Section -------------- */
 
 .btn {
     padding: 15px 38px;
@@ -24,7 +24,7 @@
     font-size: 18px;
 }
 
-/* -------------- Banner style section -------------- */
+/* -------------- Banner Style Section -------------- */
 
 .banner-container {
     background-color: #E554731A;
@@ -60,7 +60,7 @@
 
 }
 
-/* -------------- Featured Flowers(F-F) style section -------------- */
+/* -------------- Featured Flowers(F-F) Style Section -------------- */
 
 .f-f-container {
     height: 100vh;
@@ -126,7 +126,7 @@
     text-decoration: underline;
 }
 
-/* -------------- Delivery Local Support style section -------------- */
+/* -------------- Delivery, Local & Support Style Section -------------- */
 
 .d-l-s-container {
     width: 77%;
@@ -138,6 +138,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-top: 30px;
+    margin-bottom: 60px;
 
 }
 
@@ -155,3 +157,6 @@
 .d-l-s-description {
     font-weight: bold;
 }
+
+/* -------------- Hot Deal Style Section -------------- */
+
