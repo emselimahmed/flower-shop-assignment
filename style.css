@@ -30,7 +30,13 @@
     font-weight: 900;
 }
 
+.color {
+    color: #E55473;
+}
+
+
 /* -------------- Banner Style Section -------------- */
+
 
 .banner-container {
     background-color: #E554731A;
@@ -64,7 +70,9 @@
     margin: 85px 115px 0px 0px;
 }
 
+
 /* -------------- Featured Flowers(F-F) Style Section -------------- */
+
 
 .f-f-container {
     height: 100vh;
@@ -132,7 +140,9 @@
     font-weight: 900;
 }
 
+
 /* -------------- Delivery, Local & Support(D-L-S) Style Section -------------- */
+
 
 .d-l-s-container {
     width: 77%;
@@ -156,13 +166,16 @@
 .d-l-s-icon {
     width: 65px;
     padding: 20px;
+    cursor: pointer;
 }
 
 .d-l-s-description {
     font-weight: 700;
 }
 
+
 /* -------------- Hot Deal(H-D) Style Section -------------- */
+
 
 .h-d-container {
     background-color: rgba(229, 84, 115, 0.05);
@@ -195,7 +208,9 @@
     width: 230px;
 }
 
+
 /* -------------- Instagram(Insta) Style Section -------------- */
+
 
 .instagram-section {
     margin-top: 20px;
@@ -229,7 +244,9 @@
     box-shadow: rgb(114, 114, 114) 10px 10px 20px;
 }
 
+
 /* -------------- Latest Deals Style(L-D) Section -------------- */
+
 
 .l-d-container {
     height: 45vh;
@@ -278,6 +295,7 @@ input[placeholder="Enter your email here...."] {
 
 
 /* -------------- Customer Review Style Section -------------- */
+
 
 .c-r-container {
     display: flex;
@@ -375,8 +393,8 @@ figure.snip1390 .profile {
 }
 
 
-
 /* -------------- Footer Style Section -------------- */
+
 
 .footer-section {
     background-color: #111010;
@@ -391,10 +409,6 @@ figure.snip1390 .profile {
     flex-direction: column;
     justify-content: center;
     padding: 40px;
-}
-
-#flower-color {
-    color: #E55473;
 }
 
 .footer-title {
