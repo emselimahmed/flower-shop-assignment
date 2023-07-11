@@ -26,6 +26,10 @@
     font-size: 18px;
 }
 
+.title{
+    font-weight: 900;
+}
+
 /* -------------- Banner Style Section -------------- */
 
 .banner-container {
@@ -125,7 +129,7 @@
 .f-f-image-title {
     text-decoration: underline;
     cursor: pointer;
-    font-weight: 700;
+    font-weight: 900;
 }
 
 /* -------------- Delivery, Local & Support(D-L-S) Style Section -------------- */
@@ -155,7 +159,7 @@
 }
 
 .d-l-s-description {
-    font-weight: bold;
+    font-weight: 700;
 }
 
 /* -------------- Hot Deal(H-D) Style Section -------------- */
