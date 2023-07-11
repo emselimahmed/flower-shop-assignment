@@ -203,6 +203,12 @@
 
 /* -------------- Instagram(Insta) Style Section -------------- */
 
+.instagram-section {
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+
 .insta-container {
     height: 60vh;
 
@@ -250,7 +256,7 @@
 
 .l-d-texts {
     text-align: center;
-    
+
 }
 
 .subscribe-area {
