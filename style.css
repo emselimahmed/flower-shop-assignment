@@ -193,20 +193,29 @@
 /* -------------- Instagram(Insta) Style Section -------------- */
 
 .insta-container{
+    height: 70vh;
 
 }
 .insta-text-area{
-
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    padding: 50px;
 }
 .insta-title{
+    padding: 20px;
 
 }
-.insta-description{
 
-}
 .insta-images{
-
+    display: flex;
+    justify-content: center;
+    
 }
 .insta-photo{
+    width: 250px;
+    padding: 8px;
+    border-radius: 10px;
     
+
 }
