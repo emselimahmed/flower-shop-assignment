@@ -19,6 +19,7 @@
 .btn:hover {
     background-color: #80B135;
     color: black;
+    box-shadow: gray 4px 4px 10px;
 }
 
 .description {
@@ -37,37 +38,39 @@
 
 /* -------------- Banner Style Section -------------- */
 
+.banner-section{
+    margin-bottom: 100px;
+}
 
 .banner-container {
     background-color: #E554731A;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
 }
 
 .banner-text-area {
-    width: 580px;
-    margin-left: 117px;
+    width: 50%;
+    margin: auto;
+    padding-left: 150px;
 }
 
 .banner-title {
     color: #272727;
     font-size: 60px;
-    padding: 10px;
 }
 
 .banner-description {
-    padding: 10px;
+    padding: 30px 0px;
 }
 
-.banner-btn {
-    margin: 10px;
+.banner-image-area{
+    width: 50%;
 }
-
 .banner-photo {
-    width: 460px;
-    margin: 85px 115px 0px 0px;
+    width: 420px;
+    padding-left: 50px;
+    padding-top: 62px;
 }
 
 
@@ -76,7 +79,7 @@
 
 .f-f-container {
     height: 100vh;
-    margin-top: 30px;
+    /* margin-top: 30px; */
 }
 
 .f-f-title {
@@ -287,6 +290,7 @@
 
 input[placeholder="Enter your email here...."] {
     padding-left: 20px;
+    font-size: 20px
 }
 
 .l-d-btn {
@@ -297,100 +301,7 @@ input[placeholder="Enter your email here...."] {
 /* -------------- Customer Review Style Section -------------- */
 
 
-.c-r-container {
-    display: flex;
-    width: 80vw;
-    margin: auto;
-    justify-content: space-around;
-    margin-top: 60px;
-}
 
-.c-r-title {
-    padding: 20px;
-    margin-top: 50px;
-    text-align: center;
-}
-
-figure.snip1390 {
-    font-family: 'Roboto', Arial, sans-serif;
-    position: relative;
-    overflow: hidden;
-    margin: 10px;
-    min-width: 230px;
-    max-width: 315px;
-    width: 100%;
-    color: #000000;
-    text-align: center;
-    font-size: 16px;
-    background-color: #2C3447;
-    padding: 30px;
-    background-image: linear-gradient(-25deg, rgba(0, 0, 0, 0.2) 0%, rgba(255, 255, 255, 0.1) 100%);
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-}
-
-figure.snip1390 *,
-figure.snip1390 *:before,
-figure.snip1390 *:after {
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    -webkit-transition: all 0.35s ease;
-    transition: all 0.35s ease;
-}
-
-figure.snip1390 figcaption {
-    width: 100%;
-}
-
-figure.snip1390 h2,
-figure.snip1390 h4,
-figure.snip1390 blockquote {
-    margin: 0;
-}
-
-figure.snip1390 h2,
-figure.snip1390 h4 {
-    font-weight: 300;
-}
-
-figure.snip1390 h2 {
-    color: #ffffff;
-}
-
-figure.snip1390 h4 {
-    color: #a6a6a6;
-}
-
-figure.snip1390 blockquote {
-    font-size: 1em;
-    padding: 45px 20px 40px 50px;
-    margin-top: 30px;
-    background-color: #ffffff;
-    border-radius: 5px;
-    box-shadow: inset -1.4px -1.4px 2px rgba(0, 0, 0, 0.3);
-    text-align: left;
-    position: relative;
-}
-
-figure.snip1390 blockquote:before {
-    font-family: 'FontAwesome';
-    content: "\201C";
-    position: absolute;
-    font-size: 70px;
-    opacity: 0.25;
-    font-style: normal;
-    top: 0px;
-    left: 20px;
-}
-
-figure.snip1390 .profile {
-    width: 100px;
-    border-radius: 50%;
-    display: inline-block;
-    box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.4);
-    margin-bottom: 10px;
-    border: solid 5px #A6A57A;
-}
 
 
 /* -------------- Footer Style Section -------------- */
