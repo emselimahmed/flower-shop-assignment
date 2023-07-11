@@ -13,6 +13,7 @@
     color: white;
     font-size: 17px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .btn:hover {
@@ -95,6 +96,8 @@
     border-radius: 300px 300px 0px 0px;
     padding: 50px;
     margin: 15px;
+    box-shadow: rgb(114, 114, 114) 5px 5px 20px;
+
 
 }
 
@@ -104,6 +107,8 @@
     border-radius: 300px 300px 0px 0px;
     padding: 80px 40px;
     margin: 15px;
+    box-shadow: rgb(114, 114, 114) 5px 5px 20px;
+
 
 }
 
@@ -113,17 +118,19 @@
     background: rgba(71, 125, 17, 0.15);
     padding: 55px 55px 45px 55px;
     margin: 15px;
+    box-shadow: rgb(114, 114, 114) 5px 5px 20px;
+
 }
 
 .f-f-image-text {
     flex-direction: column;
     display: flex;
     align-items: center;
-    /* justify-content: center; */
 }
 
 .f-f-image-title {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 /* -------------- Delivery, Local & Support Style Section -------------- */
@@ -214,8 +221,9 @@
 }
 .insta-photo{
     width: 250px;
-    padding: 8px;
-    border-radius: 10px;
+    margin: 8px;
+    border-radius: 14px;
+    box-shadow: rgb(114, 114, 114) 10px 10px 20px;
     
 
 }
