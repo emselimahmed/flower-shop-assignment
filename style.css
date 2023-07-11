@@ -34,7 +34,6 @@
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-
 }
 
 .banner-text-area {
@@ -59,7 +58,6 @@
 .banner-photo {
     width: 460px;
     margin: 85px 115px 0px 0px;
-
 }
 
 /* -------------- Featured Flowers(F-F) Style Section -------------- */
@@ -98,8 +96,6 @@
     padding: 50px;
     margin: 15px;
     box-shadow: rgb(114, 114, 114) 5px 5px 20px;
-
-
 }
 
 .f-f-photo-2 {
@@ -109,8 +105,6 @@
     padding: 80px 40px;
     margin: 15px;
     box-shadow: rgb(114, 114, 114) 5px 5px 20px;
-
-
 }
 
 .f-f-photo-3 {
@@ -120,7 +114,6 @@
     padding: 55px 55px 45px 55px;
     margin: 15px;
     box-shadow: rgb(114, 114, 114) 5px 5px 20px;
-
 }
 
 .f-f-image-text {
@@ -133,7 +126,6 @@
     text-decoration: underline;
     cursor: pointer;
     font-weight: 700;
-
 }
 
 /* -------------- Delivery, Local & Support(D-L-S) Style Section -------------- */
@@ -149,7 +141,6 @@
     align-items: center;
     margin-top: 30px;
     margin-bottom: 60px;
-
 }
 
 .d-l-s-icons {
@@ -189,7 +180,6 @@
 
 .h-d-description {
     padding: 15px;
-
 }
 
 
@@ -206,12 +196,10 @@
 .instagram-section {
     margin-top: 50px;
     margin-bottom: 100px;
-
 }
 
 .insta-container {
     height: 60vh;
-
 }
 
 .insta-text-area {
@@ -223,13 +211,11 @@
 
 .insta-title {
     padding: 20px;
-
 }
 
 .insta-images {
     display: flex;
     justify-content: center;
-
 }
 
 .insta-photo {
@@ -237,7 +223,6 @@
     margin: 7px;
     border-radius: 10px;
     box-shadow: rgb(114, 114, 114) 10px 10px 20px;
-
 }
 
 /* -------------- Latest Deals Style(L-D) Section -------------- */
@@ -252,7 +237,6 @@
     margin: auto;
     border-radius: 8px;
     box-shadow: rgb(114, 114, 114) 5px 5px 50px;
-
 }
 
 .l-d-texts {
@@ -303,7 +287,6 @@ input[placeholder="Enter your email here...."] {
     flex-direction: column;
     justify-content: center;
     padding: 40px;
-
 }
 
 #flower-color {
@@ -325,5 +308,4 @@ input[placeholder="Enter your email here...."] {
 .copyright {
     padding: 15px;
     color: gray;
-
 }
