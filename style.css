@@ -158,18 +158,26 @@
     font-weight: bold;
 }
 
-/* -------------- Hot Deal Style Section -------------- */
+/* -------------- Hot Deal(H-D) Style Section -------------- */
 
-.hot-deal-container{
+.h-d-container{
     background-color: rgba(229, 84, 115, 0.05);
     height: 100vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
-.hot-deal-images{
+
+.h-d-text-area{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.h-d-images{
 
 }
-.hot-deal-photo{
 
+.h-d-photo{
+    width: 300px;
 }
