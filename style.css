@@ -162,22 +162,30 @@
 
 .h-d-container{
     background-color: rgba(229, 84, 115, 0.05);
-    height: 100vh;
+    height: 70vh;
     display: flex;
     justify-content: space-around;
     align-items: center;
 }
 
 .h-d-text-area{
-    width: 50%;
+    width: 45%;
     margin: auto;
     text-align: center;
 }
+.h-d-title{
+    padding: 10px;
+}
+.h-d-description{
+    padding: 15px;
+    
+}
+
 
 .h-d-images{
-
+    width: 30%;
 }
 
 .h-d-photo{
-    width: 300px;
+    width: 230px;
 }
